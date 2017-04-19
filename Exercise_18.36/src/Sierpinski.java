@@ -15,7 +15,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Polygon;
 import javafx.stage.Stage;
 
-public class Sierpinski Application {
+public class Sierpinski extends Application {
 
     public void start(Stage primaryStage) {
         SierpinskiTrianglePane trianglePane = new SierpinskiTrianglePane();
